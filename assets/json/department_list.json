@@ -1,0 +1,707 @@
+[
+  {
+    "id":1 ,
+    "name":"Chairmen of BMCH",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Dr.Md.Abu Sayed",
+        "img":"assets/images/dr_abu_sayed.jpg",
+        "education":"MBBS,PGT,MPH(Surgery)",
+        "des":"Chairman Of BMCH",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+    ]
+  },
+  {
+    "id": 2,
+    "name":"Superintendent of BMCH",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Dr.Md.Momtazul Hoque",
+        "img":"",
+        "education":"Superintendent",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+
+    ]
+  },
+  {
+    "id":3,
+    "name":"Department of Surgury",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Dr.Md.Abu Sayed",
+        "img":"assets/images/dr_abu_sayed.jpg",
+        "education":"MBBS,PGT,MPH(Surgery)",
+        "des":"Chairman Of BMCH",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":2,
+        "name":"Prof.Dr.Jahanfir Hossain Bhuiyan",
+        "img":"image pagth",
+        "education":"MBBS,MS(General Surgery)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":3,
+        "name":"Asso.Prof Dr.Ashik Mahmud",
+        "img":"image pagth",
+        "education":"MBBS,FCPS(Surgery) ",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":4,
+        "name":"Asst.Prof Dr.Md.Golam Masum",
+        "img":"image pagth",
+        "education":"MBBS,FCPS(Surgery) ",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":5,
+        "name":"Dr.Sheikh Abdullah Al Hossain",
+        "img":"image pagth",
+        "education":"MBBS ",
+        "des":"Asst.Register(Surgery)",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+    ]
+  },
+  {
+    "id":4,
+    "name":"Department of Cardiology",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Prof.Dr.Bhabani Prashad Roy",
+        "img":"image pagth",
+        "education":"MBBS,D-Card,MD(Cardiology) ",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":2,
+        "name":"Asst.Prof.Dr.M.M. Sani ",
+        "img":"image pagth",
+        "education":"MBBS,D-card,MACP(USA),FRSH(UK),CCD,Md(M) ",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+    ]
+  },
+  {
+    "id":5,
+    "name":"Department of Gyane",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Dr.Md.Abu Sayed",
+        "img":"assets/images/dr_abu_sayed.jpg",
+        "education":"MBBS,PGT,MPH(Surgery)",
+        "des":"Chairman Of BMCH",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":2,
+        "name":"Asso.Prof.Dr.Nasima Akhter",
+        "img":"image pagth",
+        "education":"MBBS,MS(Obs & Gyne)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":3,
+        "name":"Asst.Prof.Dr.Ranajit Biswas",
+        "img":"image pagth",
+        "education":"MBBS,MCPS(Obs & Gyne) ",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":4,
+        "name":"Dr.Sathy Rani Sarker",
+        "img":"image pagth",
+        "education":"MBBS ",
+        "des":"Asst.Register(Obs & Gyne)",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":5,
+        "name":"Dr.Kamrunnahar Shekha",
+        "img":"image pagth",
+        "education":"MBBS ",
+        "des":"Asst.Register(Obs & Gyne)",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":6,
+        "name":"Dr.Shaila Akter",
+        "img":"image pagth",
+        "education":"MBBS ",
+        "des":"Medical Officer(Obs & Gyne)",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+    ]
+  },
+  {
+    "id":6,
+    "name":"Department of ENT",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Prof.Dr.Sayed A.M Asfarul Abedin",
+        "img":"",
+        "education":"MBBS,DLO(BSMMU)(ENT)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":2,
+        "name":"Asst.Prof.Dr.Rahmat Ullah",
+        "img":"image pagth",
+        "education":"MBBS,DLO(ENT)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+    ]
+  },
+  {
+    "id":7,
+    "name":"Department of Medicine",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Asso.Prof.Dr.Sumon Kanti Mojumdar",
+        "img":"",
+        "education":"MBBS,MD(R)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":2,
+        "name":"Asst.Prof.Dr.M.R.Karim",
+        "img":"image pagth",
+        "education":"MBBS,CCD,MSc,MACP,MACE,MRCP(Cours.UK)(Medicine)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":3,
+        "name":"Asst.Prof.Dr.Sanzida  Akter",
+        "img":"image pagth",
+        "education":"MBBS,MD(N),FCPS(Medicine)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":4,
+        "name":"Asst.Prof.Dr.Ahsan Habib Khan",
+        "img":"image pagth",
+        "education":"MBBS,MD(Hepatology)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":5,
+        "name":"Dr.Md.Azizul Hakim Niloy",
+        "img":"image pagth",
+        "education":"MBBS",
+        "des":"Register(Medicine)",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+    ]
+  },
+  {
+    "id":8,
+    "name":"Departmet of Pediatrics",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Asst.Prof.Dr.Golam Azam",
+        "img":"",
+        "education":"MBBS,DCH(Child)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":2,
+        "name":"Asst.Prof Dr.Juwel Das",
+        "img":"image pagth",
+        "education":"MBBS,DCH(Child)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":3,
+        "name":"Dr.Liton Sarker",
+        "img":"image pagth",
+        "education":"MBBS",
+        "des":"Asst.Register(Pediatrics)",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":4,
+        "name":"Dr.Bijoy Paul",
+        "img":"image pagth",
+        "education":"MBBS",
+        "des":"Asst.Register(Pediatrics)",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+
+    ]
+  },
+  {
+    "id":9,
+    "name":"Department of Orthopedic",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Asst.Prof.Dr.Md.Saddam Hossain",
+        "img":"",
+        "education":"MBBS,D-Ortho(Ortho.)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":2,
+        "name":"Dr.Abdul Awal",
+        "img":"image pagth",
+        "education":"MBBS",
+        "des":"Register(Orthopedic)",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+    ]
+  },
+  {
+    "id":10,
+    "name":"Department of Neurology",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Asso.Prof.Dr.Nazmul Huda Biplob",
+        "img":"",
+        "education":"MBBS,MD(Neurology)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":2,
+        "name":"Asst.Prof.Dr.Sanida Akter",
+        "img":"image pagth",
+        "education":"MBBS,MD(Neuro),FCPS(M)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+    ]
+  },
+  {
+    "id":11,
+    "name":"Department of Skin & VD",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Asso.Prof.Dr.Arif Uddin Ahmed",
+        "img":"",
+        "education":"MBBS,DDV",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+    ]
+  },
+  {
+    "id":12,
+    "name":"Department of EYE",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Asst.Prof.Dr.Golam Mohaimen Chowdhury",
+        "img":"",
+        "education":"MBBS,DO",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+    ]
+  },
+  {
+    "id":13,
+    "name":"Department of Psychiatry",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Asst.Prof.Dr.Fatema Zohra",
+        "img":"",
+        "education":"MBBS,MD(Psychiatry),FMD,DHMS",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+    ]
+  },
+  {
+    "id":14,
+    "name":"Department of Pathology",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Prof.Dr. Mosammat Suchana Nazrin",
+        "img":"",
+        "education":"MBBS,MD(Patho.)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":2,
+        "name":"Asso.Prof.Dr.Abu Anis Khan",
+        "img":"",
+        "education":"MBBS,MD(Patho.)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+    ]
+  },
+  {
+    "id":15,
+    "name":"Department of Radiology & Imaging",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Dr.Taslima Surovi",
+        "img":"",
+        "education":"MBBS",
+        "des":"Register(Radiology & Imaging)",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+    ]
+  },
+  {
+    "id":16,
+    "name":"Department of Dental",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Dr.Mahbub Hossain",
+        "img":"",
+        "education":"BDS(Dental Surgeon)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":2,
+        "name":"Dr.Nasrin Jahan",
+        "img":"",
+        "education":"BDS(Dental Surgeon)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+    ]
+  },
+  {
+    "id":17,
+    "name":"Emergency Medical Officer(EMO)",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Dr.Abdul Momen",
+        "img":"",
+        "education":"MBBS",
+        "des":"EMO",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":2,
+        "name":"Dr.Kudrar E-Rabbi",
+        "img":"",
+        "education":"MBBS",
+        "des":"EMO",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":3,
+        "name":"Dr.Afsarujjaman Sazib",
+        "img":"",
+        "education":"MBBS",
+        "des":"EMO",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":4,
+        "name":"Dr.Fakhrul Islam",
+        "img":"",
+        "education":"MBBS",
+        "des":"EMO",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":5,
+        "name":"Dr.Shaila Akter",
+        "img":"",
+        "education":"MBBS",
+        "des":"EMO",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":6,
+        "name":"Dr.Faisal Bin Haidar",
+        "img":"",
+        "education":"MBBS",
+        "des":"EMO",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":7,
+        "name":"Dr.Piyata Das Nidhi",
+        "img":"",
+        "education":"MBBS",
+        "des":"EMO",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":8,
+        "name":"Dr.Bikash Banik",
+        "img":"",
+        "education":"MBBS",
+        "des":"EMO",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":9,
+        "name":"Dr.Jannatul Ferdus Shefa",
+        "img":"",
+        "education":"MBBS",
+        "des":"EMO",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+    ]
+  },
+  {
+    "id":18,
+    "name":"Only For Friday Doctor List",
+    "img":"",
+    "doctor_list":[
+      {
+        "id":1,
+        "name":"Dr.O.Z.M  Dastagir",
+        "img":"",
+        "education":"MBBS,D-Ortho.Ms(Ortho.)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":2,
+        "name":"Dr.K.M Faisal Al-Ahsan",
+        "img":"",
+        "education":"MBBS,BCS(H),MS(Urology)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":3,
+        "name":"Dr.Md.Ishtiaq Alam",
+        "img":"",
+        "education":"MBBS,BCH(H),FCPS(Gastroenterology)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":4,
+        "name":"Dr.Md.Manir Hossain",
+        "img":"",
+        "education":"MBBS,BCS(H),FCPS(M),D-Card(C),CCD(B)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":5,
+        "name":"Dr.Fatema Sultana Munni",
+        "img":"",
+        "education":"MBBS,BCS(H),DGO,FCPS",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":6,
+        "name":"Dr.Fatema Zohra",
+        "img":"",
+        "education":"MBBS,MD(Psychiatry),FMD,DHMS",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":7,
+        "name":"Dr.Nadia Ferdous",
+        "img":"",
+        "education":"MBBS,BCS(H),MD(Nephrology)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":8,
+        "name":"Dr.Sharif Hossain",
+        "img":"",
+        "education":"MBBS,BCS(H),FCPS(Medicine),Md(Cardiology)",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      },
+      {
+        "id":9,
+        "name":"Asst.Prof.Dr.Rahmat Ullah",
+        "img":"",
+        "education":"MBBS,DLO",
+        "des":"",
+        "reg":"",
+        "email":"",
+        "phone":""
+      }
+
+    ]
+  }
+
+
+
+]

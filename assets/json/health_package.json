@@ -1,0 +1,73 @@
+[
+  {
+    "id":1,
+    "name":"Health Package-1",
+    "price":"6500",
+    "detail":"Whole Body Check UP(Male)"
+
+  },
+  {
+    "id":2,
+    "name":"Health Package-2",
+    "price":"8800",
+    "detail":"Whole Body Check UP(Female)"
+
+  },
+  {
+    "id":3,
+    "name":"Health Package-3",
+    "price":"3000",
+    "detail":"General Health Check Up(Male/Female)"
+
+  },
+  {
+    "id":4,
+    "name":"Health Package-4",
+    "price":"1500",
+    "detail":"Kidney Check Up"
+
+  },
+  {
+    "id":5,
+    "name":"Health Package-5",
+    "price":"2300",
+    "detail":"Liver Check Up"
+
+
+  },
+  {
+    "id":6,
+    "name":"Health Package-6",
+    "price":"2000",
+    "detail":"Heart Check Up"
+
+  },
+  {
+    "id":7,
+    "name":"Health Package-7",
+    "price":"3600",
+    "detail":"Thyroid Check Up"
+
+  },
+  {
+    "id":8,
+    "name":"Health Package-8",
+    "price":"1000",
+    "detail":"Pre Medical Check Up"
+
+  },
+  {
+    "id":9,
+    "name":"Health Package-9",
+    "price":"2500",
+    "detail":"Dope Test"
+
+  },
+  {
+    "id":10,
+    "name":"Health Package-10",
+    "price":"1000",
+    "detail":"Pre Medical Check Up"
+
+  }
+]

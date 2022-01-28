@@ -1,0 +1,34 @@
+[
+  {
+    "id": 6,
+    "name": "United Care Institute of Medical Technology",
+    "link": "http://www.ucimt.edu.bd/"
+  },
+  {
+    "id": 1,
+    "name": "Ministry of Health and Family Welfare",
+    "link": "http://www.mohfw.gov.bd/"
+  },
+  {
+    "id": 2,
+    "name": "Department of Health Services",
+    "link": "https://hsd.gov.bd/"
+  },
+  {
+    "id": 3,
+    "name": "Department of Health",
+    "link": "https://dghs.gov.bd/index.php/bd/e-health/e-health-standerds-guideline"
+  },
+  {
+    "id": 4,
+    "name": "Department of Health Education and Family Welfare",
+    "link": "https://mefwd.gov.bd/"
+  },
+  {
+    "id": 5,
+    "name": "Department of Health Engineering",
+    "link": "http://www.hed.gov.bd/"
+  }
+
+
+]

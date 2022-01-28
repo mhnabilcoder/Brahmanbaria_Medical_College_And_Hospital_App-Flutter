@@ -1,0 +1,1319 @@
+[
+{
+  "id" : 1,
+  "name": "PSA",
+  "price" : 1500
+},
+{
+"id" : 2,
+"name": "PTH",
+"price" : 1200
+},
+{
+"id" : 3,
+"name": "Pus For AFB",
+"price" : 500
+},
+{
+"id" : 4,
+"name": "Pus For C/S",
+"price" : 600
+},
+{
+"id" : 5,
+"name": "Pus For Cytology",
+"price" : 1500
+},
+{
+"id" : 6,
+"name": "Pus For Gram Stain",
+"price" : 500
+},
+{
+"id" : 7,
+"name": "RA Test",
+"price" : 300
+},
+{
+"id" : 9,
+"name": "RAF",
+"price" : 1500
+},
+{
+"id" : 10,
+"name": "RAF",
+"price" : 1000
+},
+{
+"id" : 11,
+"name": "Rapid Antigen Test for Covid-19",
+"price" : 700
+},
+{
+"id" : 12,
+"name": "RBC Count",
+"price" : 200
+},
+{
+"id" : 13,
+"name": "RBS",
+"price" : 100
+},
+{
+"id" : 14,
+"name": "RBS Strip",
+"price" : 50
+},
+{
+"id" : 15,
+"name": "RBS With CUS",
+"price" : 300
+},
+{
+"id" : 16,
+"name": "Widal Test",
+"price" : 350
+},
+{
+"id" : 17,
+"name": "Eosinofil Count/CEC/TCE",
+"price" : 400
+},
+{
+"id" : 18,
+"name": "CA-125",
+"price" : 2500
+},
+{
+"id" : 19,
+"name": "SGOT/AST",
+"price" : 350
+},
+{
+"id" : 20,
+"name": "RFT",
+"price" : 1300
+},
+{
+"id" : 21,
+"name": "Stool R/S",
+"price" : 400
+},
+{
+"id" : 22,
+"name": "Urine Ketone Bodies",
+"price" : 300
+},
+{
+"id" : 23,
+"name": "Fasting Blood Sugar(FBS)",
+"price" : 100
+},
+{
+"id" : 24,
+"name": "Urine Sugar",
+"price" : 100
+},
+{
+"id" : 25,
+"name": "Iron Profile",
+"price" : 2500
+},
+{
+"id" : 26,
+"name": "VDRL",
+"price" : 300
+},
+{
+"id" : 27,
+"name": "Urine For P.T",
+"price" : 100
+},
+{
+"id" : 28,
+"name": "Blood ADA",
+"price" : 2500
+},
+{
+"id" : 29,
+"name": "TIBC",
+"price" : 1200
+},
+{
+"id" : 30,
+"name": "Urine R/M/E (Auto Analyzer)",
+"price" : 400
+},
+{
+"id" : 31,
+"name": "Serum Feritin",
+"price" : 1200
+},
+{
+"id" : 32,
+"name": "Serum Bilirubin",
+"price" : 300
+},
+{
+"id" : 33,
+"name": "Serum C3",
+"price" : 1500
+},
+{
+"id" : 34,
+"name": "Anti H Pylori",
+"price" : 1000
+},
+{
+"id" : 35,
+"name": "PBF",
+"price" : 1000
+},
+{
+"id" : 36,
+"name": "HbA1c",
+"price" : 1200
+},
+{
+"id" : 37,
+"name": "Platelet Count",
+"price" : 300
+},
+{
+"id" : 38,
+"name": "OGTT",
+"price" : 400
+},
+{
+"id" : 39,
+"name": "D Dimer",
+"price" : 1500
+},
+{
+"id" : 40,
+"name": "Sinogram Digital",
+"price" : 1200
+},
+{
+"id" : 41,
+"name": "Serum Cortisole",
+"price" : 2000
+},
+{
+"id" : 42,
+"name": "ASO Titre",
+"price" : 400
+},
+{
+"id" : 43,
+"name": "HIV ELISA",
+"price" : 1200
+},
+{
+"id" : 44,
+"name": "Fasting Lipid Profile",
+"price" : 1000
+},
+{
+"id" : 45,
+"name": "APTT",
+"price" : 1500
+},
+{
+"id" : 46,
+"name": "Spot Protein Creatinine Ratio",
+"price" : 2500
+},
+{
+"id" : 47,
+"name": "Lipid Profile",
+"price" : 1000
+},
+{
+"id" : 48,
+"name": "Serum Calcium",
+"price" : 500
+},
+{
+"id" : 49,
+"name": "CK_MB",
+"price" : 1000
+},
+{
+"id" : 50,
+"name": "",
+"price" : 350
+},
+{
+"id" : 51,
+"name": "B-HCG",
+"price" : 1500
+},
+{
+"id" : 52,
+"name": "Synovial Fluid For C/S",
+"price" : 600
+},
+{
+"id" : 53,
+"name": "Hb% Electrophoresis",
+"price" : 1800
+},
+{
+"id" : 54,
+"name": "Creatinine Clearence",
+"price" : 1000
+},
+{
+"id" : 55,
+"name": "Prothombin Time/ PT INR",
+"price" : 500
+},
+{
+"id" : 56,
+"name": "BT.CT",
+"price" : 100
+},
+{
+"id" : 57,
+"name": "Screning Test For Donner(HbsAg,VDRL,HIV,Malaria,HCV)",
+"price" : 1000
+},
+{
+"id" : 58,
+"name": "Anti AMH",
+"price" : 4500
+},
+{
+"id" : 59,
+"name": "Serum Phosphate",
+"price" : 1000
+},
+{
+"id" : 60,
+"name": "Urine R/M/E",
+"price" : 100
+},
+{
+"id" : 61,
+"name": "ESR",
+"price" : 100
+},
+{
+"id" : 62,
+"name": "Dengue IgG/IgM",
+"price" : 500
+},
+{
+"id" : 63,
+"name": "VDRL Q&Q",
+"price" : 2000
+},
+{
+"id" : 64,
+"name": "Anti CCP",
+"price" : 1500
+},
+{
+"id" : 65,
+"name": "Full LFT",
+"price" : 1000
+},
+{
+"id" : 66,
+"name": "Serum Albumin",
+"price" : 350
+},
+{
+"id" : 67,
+"name": "ANA",
+"price" : 1500
+},
+{
+"id" : 68,
+"name": "Blood Group",
+"price" : 100
+},
+{
+"id" : 69,
+"name": "Serum Lipase",
+"price" : 1200
+},
+{
+"id" : 70,
+"name": "Skin Scraping",
+"price" : 1000
+},
+{
+"id" : 71,
+"name": "T4",
+"price" : 1000
+},
+{
+"id" : 72,
+"name": "NS1 Antigen",
+"price" : 500
+},
+{
+"id" : 73,
+"name": "Rapid Antigen Test For Covid-19",
+"price" : 700
+},
+{
+"id" : 74,
+"name": "ANF",
+"price" : 1500
+},
+{
+"id" : 75,
+"name": "Febrile Antigen",
+"price" : 1200
+},
+{
+"id" : 76,
+"name": "Stool R/M/E",
+"price" : 200
+},
+{
+"id" : 77,
+"name": "HbsAg",
+"price" : 350
+},
+{
+"id" : 78,
+"name": "ICT for Dengue",
+"price" : 500
+},
+{
+"id" : 79,
+"name": "HIV",
+"price" : 500
+},
+{
+"id" : 80,
+"name": "Serum Electrolytes",
+"price" : 1000
+},
+{
+"id" : 81,
+"name": "Serum Cholesterol",
+"price" : 300
+},
+{
+"id" : 82,
+"name": "ALP",
+"price" : 300
+},
+{
+"id" : 83,
+"name": "HbsAg ELISA",
+"price" : 1200
+},
+{
+"id" : 84,
+"name": "TC DC",
+"price" : 200
+},
+{
+"id" : 85,
+"name": "LDH",
+"price" : 2000
+},
+{
+"id" : 86,
+"name": "CRP",
+"price" : 600
+},
+{
+"id" : 87,
+"name": "HCV(ELISA)",
+"price" : 1500
+},
+{
+"id" : 88,
+"name": "Semen Analysis",
+"price" : 500
+},
+{
+"id" :89,
+"name": "Serum Amylase",
+"price" : 1000
+},
+{
+"id" : 90,
+"name": "LUpus Anticoagulant",
+"price" : 2000
+},
+{
+"id" : 91,
+"name": "T3",
+"price" : 400
+},
+{
+"id" : 92,
+"name": "CBC with Platelet Count",
+"price" : 400
+},
+{
+"id" : 93,
+"name": "CA-19-9",
+"price" : 1500
+},
+{
+"id" : 94,
+"name": "Anti HEV IGM",
+"price" : 1500
+},
+{
+"id" : 95,
+"name": "Serum Prolactin",
+"price" : 1500
+},
+{
+"id" : 96,
+"name": "2 hours after Breakfast(ABF)",
+"price" : 100
+},
+{
+"id" : 97,
+"name": "FT4",
+"price" : 1000
+},
+{
+"id" : 98,
+"name": "Anti HBs",
+"price" : 1500
+},
+{
+"id" : 99,
+"name": "Total Protein",
+"price" : 400
+},
+{
+"id" : 100,
+"name": "Serum Testosterone",
+"price" : 1500
+},
+{
+"id" : 101,
+"name": "Serum Creatinine",
+"price" : 400
+},
+{
+"id" : 102,
+"name": "Fasting TG",
+"price" : 400
+},
+{
+"id" : 103,
+"name": "Mt Test",
+"price" : 300
+},
+{
+"id" : 104,
+"name": "Vitamin D",
+"price" : 3000
+},
+{
+"id" : 105,
+"name": "TSH",
+"price" : 1000
+},
+{
+"id" : 106,
+"name": "Rh Antibody Titre",
+"price" : 2000
+},
+{
+"id" : 107,
+"name": "Serum Uric Acid",
+"price" : 350
+},
+{
+"id" : 108,
+"name": "HbeAg",
+"price" : 1500
+},
+{
+"id" : 109,
+"name": "ICT for Malaria",
+"price" : 500
+},
+{
+"id" : 110,
+"name": "Vacuum Charge",
+"price" : 50
+},
+{
+"id" : 111,
+"name": "Vitamin B12",
+"price" : 4000
+},
+{
+"id" : 112,
+"name": "CEA",
+"price" : 1500
+},
+{
+"id" : 113,
+"name": "FT3",
+"price" : 1000
+},
+{
+"id" : 114,
+"name": "Alpha-Fetoprotein(AFP)",
+"price" : 1500
+},
+{
+"id" : 115,
+"name": "Anti HAV IGM",
+"price" : 1500
+},
+{
+"id" : 116,
+"name": "Troponin I",
+"price" : 1200
+},
+{
+"id" : 117,
+"name": "Anti HCV",
+"price" : 500
+},
+{
+"id" : 118,
+"name": "SGPT/ALT",
+"price" : 350
+},
+{
+"id" : 119,
+"name": "2hours after Lunch",
+"price" : 100
+},
+{
+"id" : 120,
+"name": "Stool of OBT",
+"price" : 500
+},
+{
+"id" : 121,
+"name": "Dope Test",
+"price" : 3000
+},
+{
+"id" : 122,
+"name": "CBC",
+"price" : 400
+},
+{
+"id" : 123,
+"name": "TPHA",
+"price" : 500
+},
+{
+"id" : 124,
+"name": "IgE",
+"price" : 1500
+},
+{
+"id" : 125,
+"name": "Sputam For C/S",
+"price" : 600
+},
+{
+"id" : 126,
+"name": "Blood Uria",
+"price" : 400
+},
+{
+"id" : 127,
+"name": "CBC with ESR",
+"price" : 400
+},
+{
+"id" : 128,
+"name": "FSH",
+"price" : 1500
+},
+{
+"id" : 129,
+"name": "HB%",
+"price" : 100
+},
+{
+"id" : 130,
+"name": "LH",
+"price" : 1500
+},
+{
+"id" : 131,
+"name": "CBC with TEC",
+"price" : 450
+},
+{
+"id" : 132,
+"name": "Bio-Carbonate Chargee",
+"price" : 2500
+},
+{
+"id" : 132,
+"name": "Bio-Carbonate Charge",
+"price" : 2500
+},
+{
+"id" : 133,
+"name": "Bio-Carbonate Charge",
+"price" : 2800
+},
+{
+"id" : 134,
+"name": "Bio-Carbonate Charge",
+"price" : 2000
+},
+{
+"id" : 135,
+"name": "Bio-Carbonate Charge",
+"price" : 3100
+},
+{
+"id" : 136,
+"name": "Dialysis Bill",
+"price" : 1000
+},
+{
+"id" : 137,
+"name": "Bio-Carbonate Charge",
+"price" : 3000
+},
+{
+"id" : 138,
+"name": "Bio-Carbonate Charge",
+"price" : 1800
+},
+{
+"id" : 139,
+"name": "Bio-Carbonate Charge",
+"price" : 2100
+},
+{
+"id" : 140,
+"name": "Bio-Carbonate Charge",
+"price" : 2100
+},
+{
+"id" : 141,
+"name": "Bio-Carbonate Charge",
+"price" : 2500
+},
+{
+"id" : 142,
+"name": "Bio-Carbonate Charge",
+"price" : 2200
+},
+{
+"id" : 143,
+"name": "Bio-Carbonate Charge",
+"price" : 1900
+},
+{
+"id" : 144,
+"name": "Bio-Carbonate Charge",
+"price" : 3100
+},
+{
+"id" : 145,
+"name": "Jugular Catherter",
+"price" : 8500
+},
+{
+"id" : 146,
+"name": "Bio-Carbonate Charge",
+"price" : 3200
+},
+{
+"id" : 147,
+"name": "Dialysis Bill",
+"price" : 2900
+},
+{
+"id" : 148,
+"name": "Bio-Carbonate Charge",
+"price" : 3200
+},
+{
+"id" : 149,
+"name": "Histopathology Big Size",
+"price" : 4200
+},
+{
+"id" : 150,
+"name": "Histopathology Small Size",
+"price" : 1500
+},
+{
+"id" : 151,
+"name": "Histopathology Medium Size",
+"price" : 1800
+},
+{
+"id" : 152,
+"name": "Skin For Biopsy",
+"price" : 1500
+},
+{
+"id" : 153,
+"name": "Histopathology Large Size Charge",
+"price" : 2500
+},
+{
+"id" : 153,
+"name": "Paps Smer",
+"price" : 1500
+},
+{
+"id" : 154,
+"name": "Fluid Study with ADA",
+"price" : 6000
+},
+{
+"id" : 155,
+"name": "FNAC",
+"price" : 1500
+},
+{
+"id" : 156,
+"name": "Fluid ADA",
+"price" : 2500
+},
+{
+"id" : 157,
+"name": "Pleural Fluis Study",
+"price" : 4200
+},
+{
+"id" : 158,
+"name": "Pus For C/S",
+"price" : 600
+},
+{
+"id" : 159,
+"name": "Blood For C/S",
+"price" : 1500
+},
+{
+"id" : 160,
+"name": "Stool For C/S",
+"price" : 600
+},
+{
+"id" : 161,
+"name": "Urine For C/S",
+"price" : 600
+},
+{
+"id" : 162,
+"name": "Wound SWab For C/S",
+"price" : 600
+},
+{
+"id" : 163,
+"name": "HBV DNA Test",
+"price" : 6500
+},
+{
+"id" : 164,
+"name": "Skin Scraping For Fungal Culture",
+"price" : 1000
+},
+{
+"id" : 165,
+"name": "Covid RT PCR Test",
+"price" : 3000
+},
+{
+"id" : 166,
+"name": "Covid RT PCR Test (Home Collection)",
+"price" : 3700
+},
+{
+"id" : 167,
+"name": "X-Ray L/S Later Digital",
+"price" : 350
+},
+{
+"id" : 168,
+"name": "X-Ray Mandible Both View Digital",
+"price" : 450
+},
+{
+"id" : 169,
+"name": "X-Ray Mastoid Towns View Digital",
+"price" : 350
+},
+{
+"id" : 170,
+"name": "X-Ray Left Foot B/V Digital",
+"price" : 450
+},
+{
+"id" : 171,
+"name": "X-Ray Right Leg Both View Digital",
+"price" : 450
+},
+{
+"id" : 172,
+"name": "X-Ray Right Knee Digital b/V",
+"price" : 450
+},
+{
+"id" : 173,
+"name": "X-Ray Saccrococcygeal Region",
+"price" : 350
+},
+{
+"id" : 174,
+"name": "X-Ray Right Ankle Both View Digital",
+"price" : 450
+},
+{
+"id" : 175,
+"name": "X-Ray of Neck B/V Digital",
+"price" : 550
+},
+{
+"id" : 176,
+"name": "X-Ray Ba-Meal of S/D Digital",
+"price" : 1400
+},
+{
+"id" : 177,
+"name": "X-Ray Left Hand A/P Digital",
+"price" : 350
+},
+{
+"id" : 178,
+"name": "X-Ray lt thigh B/V Digital",
+"price" : 450
+},
+{
+"id" : 179,
+"name": "X-Ray Pelvis B/V Digital",
+"price" : 550
+},
+{
+"id" : 180,
+"name": "X-Ray Rt Hand B/V Digital",
+"price" : 450
+},
+{
+"id" : 181,
+"name": "X-Ray Rt Elbo B/V Digital",
+"price" : 450
+},
+{
+"id" : 182,
+"name": "X-Ray Rt Knee to Ankle B/V Digital",
+"price" : 450
+},
+{
+"id" : 183,
+"name": "X-Ray Rt Ankel Including foot B/V Digital",
+"price" : 450
+},
+{
+"id" : 184,
+"name": "X-Ray Rt Forearm B/V Digital",
+"price" : 450
+},
+{
+"id" : 185,
+"name": "X-Ray Lt Leg with Ankle Joint B/V Digital",
+"price" : 450
+},
+{
+"id" : 186,
+"name": "X-Ray Lt Knee Joint B/V Digital",
+"price" : 450
+},
+{
+"id" : 187,
+"name": "X-Ray Lt Ankle  Joint B/V Digital",
+"price" : 450
+},
+{
+"id" : 188,
+"name": "X-Ray of IVU Digital",
+"price" : 2400
+},
+{
+"id" : 189,
+"name": "X-Ray KUB Digital",
+"price" : 350
+},
+{
+"id" : 190,
+"name": "X-Ray L/S A/P",
+"price" : 350
+},
+{
+"id" : 191,
+"name": "X-Ray Rt Clavicle A/P Digital",
+"price" : 350
+},
+{
+"id" : 192,
+"name": "X-Ray Rt Hip L/V Digital",
+"price" : 450
+},
+{
+"id" : 193,
+"name": "X-Ray Lt Hand B/V Digital",
+"price" : 450
+},
+{
+"id" : 194,
+"name": "X-Ray PNS O/M View Digital",
+"price" : 350
+},
+{
+"id" : 195,
+"name": "X-Ray Sacro illiac jt B/V Digital",
+"price" : 550
+},
+{
+"id" : 196,
+"name": "X-Ray of Pelvic &b Both Hip A/P Digital",
+"price" : 350
+},
+{
+"id" : 197,
+"name": "X-Ray Lt Forearm B/V Digital",
+"price" : 450
+},
+{
+"id" : 198,
+"name": "X-Ray Rt Arm B/V Digital",
+"price" : 350
+},
+{
+"id" : 199,
+"name": "X-Ray both knee joint B/V Digital",
+"price" : 700
+},
+{
+"id" : 200,
+"name": "X-Ray Left Shoulder Both View Digital Digital",
+"price" : 550
+},
+{
+"id" : 201,
+"name": "Dorsolumber Spine B/V Digital",
+"price" : 550
+},
+{
+"id" : 202,
+"name": "X-Ray Chest P/A Digital",
+"price" : 400
+},
+{
+"id" : 203,
+"name": "X-Ray Nasopharynx L/V Digital",
+"price" : 350
+},
+{
+"id" : 204,
+"name": "X-Ray Rt Foot B/V Digital",
+"price" : 450
+},
+{
+"id" : 205,
+"name": "X-Ray Nasal Bone Lateral View Digital",
+"price" : 350
+},
+{
+"id" : 206,
+"name": "X-Ray Rt Thigh B/V Digital",
+"price" : 350
+},
+{
+"id" : 207,
+"name": "X-Ray Lt Hip to knee B/V Digital",
+"price" : 450
+},
+{
+"id" : 209,
+"name": "Plain X-Ray Abdomen in Erect Digital",
+"price" : 350
+},
+{
+"id" : 210,
+"name": "X-Ray Lt Hand B/V Digital",
+"price" : 450
+},
+{
+"id" : 211,
+"name": "X-Ray Rt Elbow to Wrist B/V Digital",
+"price" : 450
+},
+{
+"id" : 212,
+"name": "X-Ray Rt Hip Joint B/V Digital",
+"price" : 450
+},
+{
+"id" : 213,
+"name": "X-Ray Chest Rt Later View Digital",
+"price" : 400
+},
+{
+"id" : 214,
+"name": "X-Ray Lt knee B/V Digital",
+"price" : 450
+},
+{
+"id" : 215,
+"name": "X-Ray Rt Wrist B/V Digital",
+"price" : 450
+},
+{
+"id" : 216,
+"name": "X-Ray Cervical Spine B/V Digital",
+"price" : 550
+},
+{
+"id" : 217,
+"name": "X-Ray Ba-Swallow Digital",
+"price" : 1400
+},
+{
+"id" : 218,
+"name": "X-Ray Elbow B/V Digital",
+"price" : 450
+},
+{
+"id" : 219,
+"name": "X-Ray Rt knee with Lower Thigh B/V Digital",
+"price" : 450
+},
+{
+"id" : 220,
+"name": "X-Ray Rt Leg B/V Digital",
+"price" : 450
+},
+{
+"id" : 221,
+"name": "X-Ray Lt Hip Later View Digital",
+"price" : 350
+},
+{
+"id" : 222,
+"name": "X-Ray Rt Shoulder B/V Digital",
+"price" : 550
+},
+{
+"id" : 223,
+"name": "X-Ray Soft Tissue neck L/V Digital",
+"price" : 350
+},
+{
+"id" : 214,
+"name": "X-Ray Pelvis  A/P Digital",
+"price" : 350
+},
+{
+"id" : 215,
+"name": "X-Ray Rt Hip to knee B/V Digital",
+"price" : 450
+},
+{
+"id" : 216,
+"name": "X-Ray Rt Ankle Including Foot B/V Normal",
+"price" : 250
+},
+{
+"id" : 217,
+"name": "X-Ray Mandible Lateral View",
+"price" : 350
+},
+{
+"id" : 218,
+"name": "X-Ray L/S B/V Digital",
+"price" : 450
+},
+{
+"id" : 219,
+"name": "X-Ray Lt Leg B/V Digital",
+"price" : 450
+},
+{
+"id" : 220,
+"name": "X-Ray knee A/P Digital",
+"price" : 350
+},
+{
+"id" : 221,
+"name": "X-Ray Skull B/V Digital",
+"price" : 550
+},
+{
+"id" : 222,
+"name": "X-Ray of Neck A/P Normal",
+"price" : 250
+},
+{
+"id" : 223,
+"name": "X-Ray Lt Arm B/V Digital",
+"price" : 350
+},
+{
+"id" : 224,
+"name": "X-Ray Chest A/P Digital",
+"price" : 400
+},
+{
+"id" : 225,
+"name": "X-Ray Lt knee to Ankle B/V Digital",
+"price" : 450
+},
+{
+"id" : 226,
+"name": "X-Ray Shoulder A/P Digital",
+"price" : 350
+},
+{
+"id" : 227,
+"name": "X-Ray Neck Later View Digital",
+"price" : 350
+},
+{
+"id" : 228,
+"name": "X-Ray Both knee B/V Digital",
+"price" : 700
+},
+{
+"id" : 229,
+"name": "Echocardiogram Colour",
+"price" : 2000
+},
+{
+"id" : 230,
+"name": "Carotd D0ppler Study C",
+"price" : 2000
+},
+{
+"id" : 231,
+"name": "Doppler Study of Lf/Rt.Leg",
+"price" : 2000
+},
+{
+"id" : 232,
+"name": "Vascular Study 2D",
+"price" : 1000
+},
+{
+"id" : 233,
+"name": "Vascular Study 4D",
+"price" : 2000
+},
+{
+"id" : 234,
+"name": "Carotd D0ppler Study 2D",
+"price" :1000
+},
+{
+"id" : 235,
+"name": "EchoCardiogram Normal",
+"price" : 1000
+},
+{
+"id" : 236,
+"name": "USG of Both Brest",
+"price" : 1600
+},
+{
+"id" : 237,
+"name": "USG of Neck",
+"price" : 1500
+},
+{
+"id" : 238,
+"name": "USG of L/A",
+"price" : 500
+},
+{
+"id" : 239,
+"name": "USG of KUB with MCC & PVR",
+"price" : 800
+},
+{
+"id" : 240,
+"name": "USG of W/A with S/P HBS",
+"price" : 600
+},
+{
+"id" : 241,
+"name": "USG For PP",
+"price" : 500
+},
+{
+"id" : 242,
+"name": "USG of Thyroid",
+"price" : 1700
+},
+{
+"id" : 243,
+"name": "USG of KUB & PVR",
+"price" : 600
+},
+{
+"id" : 244,
+"name": "USG of W/A ",
+"price" : 600
+},
+{
+"id" : 245,
+"name": "USG of HBs ",
+"price" : 600
+},
+{
+"id" : 246,
+"name": "USG of Right Submandibular Region ",
+"price" : 1700
+},
+{
+"id" : 247,
+"name": "USG of KUB ",
+"price" : 600
+},
+{
+"id" : 248,
+"name": "USG of HBsAg ",
+"price" : 600
+},
+{
+"id" : 249,
+"name": "USG of W/A @Sp KUB ",
+"price" : 600
+},
+{
+"id" : 250,
+"name": "USG of L/A",
+"price" : 500
+},
+{
+"id" : 251,
+"name": "Endoscopy",
+"price" : 1500
+},
+{
+"id" : 251,
+"name": "ENT Endoscopy",
+"price" : 1500
+},
+{
+"id" : 252,
+"name": "ECG",
+"price" : 250
+}
+
+
+]
