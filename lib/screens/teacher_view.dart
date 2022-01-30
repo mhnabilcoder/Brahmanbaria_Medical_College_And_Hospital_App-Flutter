@@ -59,7 +59,8 @@ class _TeacherViewState extends State<TeacherView> {
                                         padding: EdgeInsets.symmetric(vertical: 10.0)),
                                     child: Text(
                                       '${website.name}',
-                                      style: TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold,color: Colors.black),
+                                      textAlign: TextAlign.center,
+                                      style: TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold,color: Colors.black,),
                                     )),
                               ),
                             ],

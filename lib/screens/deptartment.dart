@@ -1,5 +1,6 @@
 import 'dart:ui';
 
+import 'package:bmcah/constants/app_constants.dart';
 import 'package:bmcah/models/department_model.dart';
 import 'package:bmcah/repositories/department_repo.dart';
 import '../screens/global_widgets/my_drawer.dart';
@@ -59,22 +60,16 @@ class _DepartmentViewState extends State<DepartmentView> {
                     padding: const EdgeInsets.all(4.0),
                     child: ElevatedButton(
                         onPressed: () {
-                          // if (deptList.elementAt(index).id == 1) {
-                          //   Department bngDept = deptList[0];
-                          //   Navigator.pushNamed(context, AppConstant.deptDetailPage,
-                          //       arguments: bngDept);
-                          // } else if (deptList.elementAt(index).id == 2) {
-                          //   Department bngDept = deptList[1];
-                          //   Navigator.pushNamed(context, AppConstant.deptDetailPage,
-                          //       arguments: bngDept);
-                          // }
+                          Department bngDept = depList[index];
+                          Navigator.pushNamed(context, AppConstant.deptDetailPage,
+                              arguments: bngDept);
                         },
                         style: ElevatedButton.styleFrom(
                           minimumSize: Size(MediaQuery.of(context).size.width,60),
                             primary: Colors.white70,
                             padding: EdgeInsets.symmetric(vertical: 10.0)),
                         child: Text(
-                          '${depList.elementAt(index).doctorList![0].name}',
+                          '${depList.elementAt(index).name}',
                           style: TextStyle(fontSize: 20.0, fontWeight: FontWeight.bold,color: Colors.black),
                         )),
                   ),

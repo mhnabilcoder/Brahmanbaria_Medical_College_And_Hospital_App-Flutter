@@ -1,3 +1,5 @@
+import 'package:bmcah/constants/app_constants.dart';
+import 'package:bmcah/screens/aboutUs.dart';
 import 'package:flutter/material.dart';
 
 class MyDrawer extends StatelessWidget {
@@ -9,29 +11,66 @@ class MyDrawer extends StatelessWidget {
         children: [
           DrawerHeader(
             decoration: BoxDecoration(
-              color: Colors.amber.shade300,
+              color: Colors.white
             ),
             child: Container(
               width: MediaQuery.of(context).size.width,
-              child: Icon(Icons.verified_user_sharp),
+              child: Image.asset('assets/images/logo.png'),
             ),
           ),
           ListTile(
-            leading: Icon(Icons.home),
-            title: Text('Home Page'),
-            onTap: () {},
+            leading: Icon(Icons.description_outlined),
+            title: Text('Department'),
+            onTap: () {
+              Navigator.pushNamed(context, AppConstant.deptPage);
+            },
           ),
           ListTile(
             leading: Icon(
-              Icons.details,
+              Icons.account_balance_wallet_outlined,
             ),
-            title: Text('About'),
-            onTap: () {},
+            title: Text('Health Package'),
+            onTap: () {
+              Navigator.pushNamed(context, AppConstant.doctorPage);
+            },
           ),
           ListTile(
-            leading: Icon(Icons.contact_page),
-            title: Text('Contac Us'),
-            onTap: () {},
+            leading: Icon(Icons.web_sharp),
+            title: Text('Web Page'),
+            onTap: () {
+              Navigator.pushNamed(context, AppConstant.academicPage);
+            },
+          ),
+          ListTile(
+            leading: Icon(Icons.settings_outlined),
+            title: Text('Investigation'),
+            onTap: () {
+              Navigator.pushNamed(context, AppConstant.investPage);
+            },
+          ),
+          ListTile(
+            leading: Icon(Icons.call),
+            title: Text('Contact'),
+            onTap: () {
+              Navigator.pushNamed(context, AppConstant.userPage);
+
+            },
+          ),
+          ListTile(
+            leading: Icon(Icons.link),
+            title: Text('Weblink'),
+            onTap: () {
+              Navigator.pushNamed(context, AppConstant.teacherPage);
+
+            },
+          ),
+          ListTile(
+            leading: Icon(Icons.link),
+            title: Text('About Us'),
+            onTap: () {
+              Navigator.push(context, MaterialPageRoute(builder: (context) => AboutPage(),));
+
+            },
           ),
         ],
       ),
